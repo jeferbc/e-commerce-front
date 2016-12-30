@@ -6,6 +6,11 @@
     border-radius: 0px;
     }
 }
+@media (max-width: 991px){
+.side-bar {
+    display: none;
+    }
+}
 .navbar{
     margin-bottom: 20px;
 }
